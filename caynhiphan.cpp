@@ -97,7 +97,7 @@ void Menu(node<T>* &H){
 			if (find(H, x)){
 				cout << x << "Co trong cay.";
 			}
-			else cout << x << "Khong co trong cay";
+			else cout << x << " Khong co trong cay";
 		}
 		else break;
 	}
